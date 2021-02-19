@@ -1,0 +1,11 @@
+{
+  "name": "awesome-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ctak/awesome-javascript.git",
+  "author": "C Tak <tak.changbeom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
